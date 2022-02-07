@@ -27,33 +27,3 @@ function multiplication() {
     let mul = num1 * num2
     results.textContent = 'Result is : ' + mul
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
